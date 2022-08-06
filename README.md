@@ -1,3 +1,13 @@
+# JTSDRAM for [SoCkit (MiSTer) Platform](https://github.com/sockitfpga/MiSTer_SoCkit) 
+
+Ported by  Somhic from https://github.com/jotego/jtsdram
+
+
+
+Follows original README.
+
+
+
 # JTSDRAM
 
 Checks the sanity of the SDRAM module on MiST and MiSTer systems
